@@ -1,0 +1,75 @@
+﻿{
+  "rules": [
+    {
+      "label": "Popular",
+      "sites": [
+        {
+          "label": "ScienceDirect",
+          "host": "www.sciencedirect.com",
+          "base_url": "https://www.sciencedirect.com/",
+          "sample_pages": ["https://www.sciencedirect.com/journal/artificial-intelligence"]
+        },
+        {
+          "label": "SpringerLink",
+          "host": "link.springer.com",
+          "base_url": "https://link.springer.com/",
+          "sample_pages": ["https://link.springer.com/journal/10489"]
+        },
+        {
+          "label": "Wiley Online Library",
+          "host": "onlinelibrary.wiley.com",
+          "base_url": "https://onlinelibrary.wiley.com/",
+          "sample_pages": ["https://onlinelibrary.wiley.com/journal/14680262"]
+        },
+        {
+          "label": "Taylor & Francis",
+          "host": "www.tandfonline.com",
+          "base_url": "https://www.tandfonline.com/",
+          "sample_pages": ["https://www.tandfonline.com/toc/tbes20/current"]
+        },
+        {
+          "label": "PLOS ONE",
+          "host": "journals.plos.org",
+          "base_url": "https://journals.plos.org/plosone/",
+          "sample_pages": ["https://journals.plos.org/plosone/browse"]
+        },
+        {
+          "label": "SAGE Journals",
+          "host": "journals.sagepub.com",
+          "base_url": "https://journals.sagepub.com/",
+          "sample_pages": ["https://journals.sagepub.com/home/ica"]
+        },
+        {
+          "label": "Oxford Academic",
+          "host": "academic.oup.com",
+          "base_url": "https://academic.oup.com/",
+          "sample_pages": ["https://academic.oup.com/journals"]
+        },
+        {
+          "label": "Research Square",
+          "host": "www.researchsquare.com",
+          "base_url": "https://www.researchsquare.com/",
+          "sample_pages": ["https://www.researchsquare.com/browse"]
+        },
+        {
+          "label": "Hindawi",
+          "host": "www.hindawi.com",
+          "base_url": "https://www.hindawi.com/",
+          "sample_pages": ["https://www.hindawi.com/journals/"]
+        },
+        {
+          "label": "ACS Publications",
+          "host": "pubs.acs.org",
+          "base_url": "https://pubs.acs.org/",
+          "sample_pages": ["https://pubs.acs.org/journal/jacsat"]
+        },
+        {
+          "label": "Cureus",
+          "host": "www.cureus.com",
+          "base_url": "https://www.cureus.com/",
+          "sample_pages": ["https://www.cureus.com/browse/categories"]
+        }
+      ]
+    }
+  ]
+}
